@@ -1,4 +1,4 @@
-bacanannssssssssss
+Welcome to my GitHub 😁
 
 <!--
 **k1zzy/k1zzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
